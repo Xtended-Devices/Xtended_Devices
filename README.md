@@ -1,6 +1,6 @@
 <a href="#"><img src="assets/misc/head.png" /></a>
 ----
-[<img src="assets/misc/telegram-logo.webp" height="40" /></a>](https://t.me/XtendedOfficial "Connect to us on Telegram") [<img src="assets/misc/github-logo.webp" height="40" /></a>](https://github.com/orgs/Project-Xtended/repositories "Our ROM sources") 
+[<img src="assets/misc/telegram-logo.webp" height="40" /></a>](https://t.me/XtendedOfficial "Connect to us on Telegram") [<img src="assets/misc/github-logo.webp" height="40" /></a>](https://github.com/orgs/Project-Xtended/repositories "Our ROM sources") [<img src="assets/misc/twitter-logo.svg" height="40" /></a>](https://twitter.com/projectxtended "Let's talk something")
 ## Project Xtended Official Devices:
 
 <a href="#"><img src="assets/lenovo/lenovo.png" height="50" /></a> 
