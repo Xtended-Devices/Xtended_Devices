@@ -1,6 +1,6 @@
 <a href="#"><img src="assets/misc/head.png" /></a>
 ----
-
+[<img src="assets/misc/telegram-logo.webp" height="40" /></a>](https://t.me/XtendedOfficial "Connect to us on Telegram")  
 ## Project Xtended Official Devices:
 
 <a href="#"><img src="assets/lenovo/lenovo.png" height="50" /></a> 
