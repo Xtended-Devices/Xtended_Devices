@@ -122,6 +122,15 @@
  Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=hotdog/XT)
 
+<a href="#"><img align="left" img src="assets/oneplus/lemonadep.png" width="90" /></a>
+
+ Device                    | OnePlus 9Pro    
+ --------------------------|----------------------------------------------------------------------
+ CodeName                  | Lemonadep                                                             
+ Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
+ Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
+ Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=lemonadep/XT)
+
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------
