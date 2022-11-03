@@ -87,6 +87,15 @@
  Device Support Group      | [Device Telegram group](https://t.me/tulipofficial)                           
  Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=tulip/XT)
 
+<a href="#"><img align="left" img src="assets/mi/ginkgo.png" width="90" /></a>
+
+ Device                    | Redmi Note 8/8T   
+ --------------------------|----------------------------------------------------------------------
+ CodeName                  | Ginkgo/Willow                                                           
+ Maintainer                | [TheWeaver786](https://t.me/TheWeaver786)                     
+ Device Support Group      | [Device Telegram group](https://t.me/xtended_ginkgo)                           
+ Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=ginkgo/XT)
+
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------
