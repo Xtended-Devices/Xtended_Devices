@@ -78,6 +78,15 @@
  Device Support Group      | [Device Telegram group](https://t.me/pawelikhideout)                           
  Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=rchime/XT)
 
+<a href="#"><img align="left" img src="assets/mi/tulip.png" width="90" /></a>
+
+ Device                    | Redmi Note 6 Pro   
+ --------------------------|----------------------------------------------------------------------
+ CodeName                  | Tulip                                                             
+ Maintainer                | [official_mocha](https://t.me/official_mocha)                     
+ Device Support Group      | [Device Telegram group](https://t.me/tulipofficial)                           
+ Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=tulip/XT)
+
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------
