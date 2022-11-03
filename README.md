@@ -60,6 +60,15 @@
  Device Support Group      | [Device Telegram group](https://t.me/pawelikhideout)                           
  Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=raphael/XT)
 
+<a href="#"><img align="left" img src="assets/mi/gauguin.png" width="90" /></a>
+
+ Device                    | MI 10i,RedmiNote 9pro5g/MI 10tLite  
+ --------------------------|----------------------------------------------------------------------
+ CodeName                  | Gauguin                                                             
+ Maintainer                | [cursed0007](https://telegram.me/cursed0007)                     
+ Device Support Group      | [Device Telegram group](https://t.me/xtendedgauguin)                           
+ Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=gauguin/XT)
+
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------
