@@ -135,3 +135,20 @@
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+<a href="#"><img src="assets/realme/realme.png" height="50" /></a> 
+<details>
+<br>
+<summary><b> Official Realme Devices</b></summary>
+<a href="#"><img align="left" img src="assets/realme/RMX1921.png" width="90" /></a>
+
+ Device                    | Realme XT    
+ --------------------------|----------------------------------------------------------------------
+ CodeName                  | RMX1921                                                             
+ Maintainer                | [jigen_was_here](https://telegram.me/kssrao13882)                     
+ Device Support Group      | [Device Telegram group](https://t.me/RealmeXTofficial)                           
+ Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=RMX1921/XT)
+
+</details>
+
+------------------------------------------------------------------------------------------------------------------------------
+
