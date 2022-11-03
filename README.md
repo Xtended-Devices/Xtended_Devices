@@ -42,6 +42,15 @@
  Device Support Group      | [Device Telegram group](https://t.me/rds_builds_support)                           
  Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=cepheus/XT)
 
+<a href="#"><img align="left" img src="assets/mi/grus.png" width="90" /></a>
+
+ Device                    | Mi 9 SE   
+ --------------------------|----------------------------------------------------------------------
+ CodeName                  | Grus                                                             
+ Maintainer                | [RDS_07](https://telegram.me/RDS_o7)                     
+ Device Support Group      | [Device Telegram group](https://t.me/Swaggers_builds)                           
+ Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=grus/XT)
+
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------
