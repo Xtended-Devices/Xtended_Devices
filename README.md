@@ -69,6 +69,15 @@
  Device Support Group      | [Device Telegram group](https://t.me/xtendedgauguin)                           
  Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=gauguin/XT)
 
+<a href="#"><img align="left" img src="assets/mi/chime.png" width="90" /></a>
+
+ Device                    | Redmi 9T / POCO M3    
+ --------------------------|----------------------------------------------------------------------
+ CodeName                  | Chime                                                            
+ Maintainer                | [pawelik001](https://telegram.me/pawelik001)                     
+ Device Support Group      | [Device Telegram group](https://t.me/pawelikhideout)                           
+ Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=rchime/XT)
+
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------
