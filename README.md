@@ -100,3 +100,20 @@
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+<a href="#"><img src="assets/oneplus/oplus.png" height="50" /></a> 
+<details>
+<br>
+<summary><b> Official OnePlus Devices</b></summary>
+<a href="#"><img align="left" img src="assets/oneplus/hotdogb.png" width="90" /></a>
+
+ Device                    | OnePlus 7t    
+ --------------------------|----------------------------------------------------------------------
+ CodeName                  | Hotdogb                                                             
+ Maintainer                | [SuperDroidBond](https://telegram.me/SuperDroidBond)                     
+ Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
+ Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=hotdogb/XT)
+
+</details>
+
+------------------------------------------------------------------------------------------------------------------------------
+
