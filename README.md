@@ -33,6 +33,15 @@
  Device Support Group      | [Device Telegram group](https://t.me/TogoFireWork)                           
  Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=daisy/XT)
 
+<a href="#"><img align="left" img src="assets/mi/cepheus.png" width="90" /></a>
+
+ Device                    | Mi 9    
+ --------------------------|----------------------------------------------------------------------
+ CodeName                  | Cepheus                                                             
+ Maintainer                | [RDS_07](https://telegram.me/RDS_o7)                     
+ Device Support Group      | [Device Telegram group](https://t.me/rds_builds_support)                           
+ Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=cepheus/XT)
+
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------
