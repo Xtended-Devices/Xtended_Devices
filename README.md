@@ -51,6 +51,15 @@
  Device Support Group      | [Device Telegram group](https://t.me/Swaggers_builds)                           
  Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=grus/XT)
 
+<a href="#"><img align="left" img src="assets/mi/raphael.png" width="90" /></a>
+
+ Device                    | Mi 9T Pro    
+ --------------------------|----------------------------------------------------------------------
+ CodeName                  | Raphael                                                             
+ Maintainer                | [pawelik001](https://telegram.me/pawelik001)                     
+ Device Support Group      | [Device Telegram group](https://t.me/pawelikhideout)                           
+ Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=raphael/XT)
+
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------
