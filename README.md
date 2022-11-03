@@ -20,3 +20,20 @@
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+<a href="#"><img src="assets/mi/mi.png" height="50" /></a> 
+<details>
+<br>
+<summary><b> Official Xiaomi/Redmi Devices</b></summary>
+<a href="#"><img align="left" img src="assets/mi/daisy.png" width="90" /></a>
+
+ Device                    | Mi A2 Lite   
+ --------------------------|----------------------------------------------------------------------
+ CodeName                  | Daisy                                                             
+ Maintainer                | [TogoFire](https://telegram.me/TogoFire)                     
+ Device Support Group      | [Device Telegram group](https://t.me/TogoFireWork)                           
+ Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=daisy/XT)
+
+</details>
+
+------------------------------------------------------------------------------------------------------------------------------
+
