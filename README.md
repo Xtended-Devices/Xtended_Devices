@@ -157,6 +157,15 @@
  Device Support Group      | [Device Telegram group](https://t.me/Realme5Pro_Global)                           
  Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=RMX1971/XT)
 
+<a href="#"><img align="left" img src="assets/realme/bitra.png" width="90" /></a>
+
+ Device                    | Realme GT Neo 2    
+ --------------------------|----------------------------------------------------------------------
+ CodeName                  | Bitra                                                            
+ Maintainer                | [Andreock](https://t.me/Andreock)                     
+ Device Support Group      | [Device Telegram group](https://t.me/realmegtneo2dragon)                           
+ Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=bitra/XT)
+
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------
