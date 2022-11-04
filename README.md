@@ -1,6 +1,6 @@
 <a href="#"><img src="assets/misc/head.png" /></a>
 
-<kbd><b>Connect with us:<b></kbd> 
+<sup><kbd><b>Connect with us:</b></kbd></sup> 
 [<img src="assets/misc/telegram-logo.webp" height="30" /></a>](https://t.me/XtendedOfficial "Connect to us on Telegram") [<img src="assets/misc/github-logo.png" height="30" /></a>](https://github.com/orgs/Project-Xtended/repositories "Our ROM sources") [<img src="assets/misc/twitter-logo.svg" height="30" /></a>](https://twitter.com/projectxtended "Let's talk something")
 #
 
