@@ -17,6 +17,15 @@
  | Device Support Group      | [Device Telegram group](https://t.me/LenovoZ6ProChat)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=zippo/XT)
 
+<a href="#"><img align="left" img src="assets/lenovo/zuk-z2.png" width="90" /></a>
+
+ | Device                    | Lenovo Zuk Z2 Plus    
+ | :---------------          | :------------------------------------------------------------------
+ | CodeName                  | z2_plus                                                            
+ | Maintainer                | [Pranav Temkar](https://telegram.me/PptOo7)                     
+ | Device Support Group      | [Device Telegram group](https://t.me/LenovoZukZ2)                           
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=z2_plus/XT)
+
 </details>
 
 #
