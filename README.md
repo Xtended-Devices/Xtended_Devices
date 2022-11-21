@@ -100,7 +100,7 @@
 
 <a href="#"><img align="left" img src="assets/mi/ginkgo.png" width="90" /></a>
 
- | Device                    | Redmi Note 8/8T   
+ | Device                    | Redmi Note 8/8T:Discontinued after XT-v2  
  | :-------------------------| :----------------------------------------------------------------------
  | CodeName                  | Ginkgo/Willow                                                           
  | Maintainer                | [TheWeaver786](https://t.me/TheWeaver786)                     
