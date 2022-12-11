@@ -98,6 +98,33 @@
  | Device Support Group      | [Device Telegram group](https://t.me/tulipofficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=tulip/XT)
 
+<a href="#"><img align="left" img src="assets/mi/violet.png" width="90" /></a>
+
+ | Device/Codename           | Redmi Note 7 Pro / Violet   
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Active                                                            
+ | Maintainer                | [Abhi](https://t.me/abhix202)                     
+ | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                            
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=violet/XT)
+
+<a href="#"><img align="left" img src="assets/mi/sweet.png" width="90" /></a>
+
+ | Device/Codename           | Redmi Note 10 Pro / Sweet   
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Active                                                            
+ | Maintainer                | [Suresh](https://t.me/Black_Serpent)                     
+ | Device Support Group      | [Device Telegram group](https://t.me/blackserpentsupport)                            
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=sweet/XT)
+
+<a href="#"><img align="left" img src="assets/mi/miatoll.png" width="90" /></a>
+
+ | Device/Codename           | Poco M2 Pro / Miatoll   
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Active                                                            
+ | Maintainer                | [Cosmic](https://t.me/cos0i)                     
+ | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                            
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=miatoll/XT)
+
 <a href="#"><img align="left" img src="assets/mi/ginkgo.png" width="90" /></a>
 
  | Device/Codename           | Redmi Note 8/8T / Ginkgo/Willow 
@@ -133,6 +160,15 @@
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=hotdog/XT)
+
+<a href="#"><img align="left" img src="assets/oneplus/lemonade.png" width="90" /></a>
+
+ | Device/Codename           | OnePlus 9 / Lemonade    
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Active                                                            
+ | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
+ | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=lemonade/XT)
 
 <a href="#"><img align="left" img src="assets/oneplus/lemonadep.png" width="90" /></a>
 
