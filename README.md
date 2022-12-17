@@ -183,7 +183,7 @@
 
  | Device/Codename           | OnePlus 7t / Hotdogb    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Active                                                            
+ | Current Status            | Xtended-XT-v3.5                                                            
  | Maintainer                | [SuperDroidBond](https://telegram.me/SuperDroidBond)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=hotdogb/XT)
@@ -192,7 +192,7 @@
 
  | Device/Codename           | OnePlus 7t Pro / Hotdog    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Active                                                            
+ | Current Status            | Xtended-XT-v3.5                                                            
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=hotdog/XT)
@@ -201,7 +201,7 @@
 
  | Device/Codename           | OnePlus 9 / Lemonade    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Active                                                            
+ | Current Status            | Xtended-XT-v3.5                                                            
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=lemonade/XT)
@@ -210,7 +210,7 @@
 
  | Device/Codename           | OnePlus 9Pro / Lemonadep    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Active                                                            
+ | Current Status            | Xtended-XT-v3.5                                                            
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=lemonadep/XT)
