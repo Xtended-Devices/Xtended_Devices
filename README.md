@@ -73,7 +73,7 @@
 
 <a href="#"><img align="left" img src="assets/mi/gauguin.png" width="90" /></a>
 
- | Device/Codename           | MI 10i,RN 9pro 5g,MI 10tLite/Gauguin  
+ | Device/Codename           | MI 10i/10tLite,RN 9pro5g / Gauguin  
  | :-------------------------| :----------------------------------------------------------------------
  | Current Status            | Active                                                            
  | Maintainer                | [cursed0007](https://telegram.me/cursed0007)                     
