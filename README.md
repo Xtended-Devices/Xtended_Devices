@@ -120,7 +120,7 @@
 
  | Device/Codename           | Redmi Note 7 Pro / Violet   
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Active                                                            
+ | Current Status            | Xtended-XT-v3.5                                                            
  | Maintainer                | [Abhi](https://t.me/abhix202)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                            
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=violet/XT)
