@@ -239,7 +239,7 @@
  | :-------------------------| :----------------------------------------------------------------------
  | Current Status            | Active                                                            
  | Maintainer                | [Samba Siva Rao K](https://telegram.me/kssrao13882)                     
- | Device Support Group      | [Device Telegram group](https://t.me/Realme5Pro_Global)                           
+ | Device Support Group      | [Device Telegram group](https://telegram.me/Xtended_RMX1971)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=RMX1971/XT)
 
 <a href="#"><img align="left" img src="assets/realme/bitra.png" width="90" /></a>
