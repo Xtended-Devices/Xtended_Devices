@@ -80,6 +80,15 @@
  | Device Support Group      | [Device Telegram group](https://t.me/xtendedgauguin)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=gauguin/XT)
 
+<a href="#"><img align="left" img src="assets/mi/monet.png" width="90" /></a>
+
+ | Device/Codename           | Mi 10 Lite 5G / monet   
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Active                                                            
+ | Maintainer                | [Alec Chan](https://telegram.me/alecchangod)                     
+ | Device Support Group      | [Device Telegram group](https://t.me/alec_rom_support)                           
+ | Download Link   	     | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=monet/XT)
+
 <a href="#"><img align="left" img src="assets/mi/alioth.png" width="90" /></a>
 
  | Device/Codename           | POCO F3/MI11X/K40 / Alioth  
