@@ -139,6 +139,24 @@
 #
 <br>
 
+<a href="#"><img src="assets/nothing/nothing.png" height="35" /></a> 
+<details>
+<br>
+<summary><b> Official Nothing Devices</b></summary>
+<a href="#"><img align="left" img src="assets/nothing/Spacewar.png" width="90" /></a>
+
+ | Device/Codename           | Phone1 / Spacewar    
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Testing                                                            
+ | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
+ | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
+ | Download Link             | [Coming Soon](https://downloads.project-xtended.org/?dir=Spacewar/XT)
+
+</details>
+
+#
+<br>
+
 <a href="#"><img src="assets/oneplus/oplus.png" height="50" /></a> 
 <details>
 <br>
