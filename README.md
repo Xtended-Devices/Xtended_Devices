@@ -93,7 +93,7 @@
 
  | Device/Codename           | POCO F3/MI11X/K40 / Alioth  
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Active                                                             
+ | Current Status            |   Xtended-XT-v3.5                                             
  | Maintainer                | [OFFENDER](https://telegram.me/lazyafk)                     
  | Device Support Group      | [Device Telegram group](https://t.me/offendersupport)                           
  | Download Link             | [Official Download Link for your device]( https://downloads.project-xtended.org/?dir=alioth/XT )
