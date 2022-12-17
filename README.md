@@ -80,6 +80,15 @@
  | Device Support Group      | [Device Telegram group](https://t.me/xtendedgauguin)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=gauguin/XT)
 
+<a href="#"><img align="left" img src="assets/mi/alioth.png" width="90" /></a>
+
+ | Device/Codename           | POCO F3/MI11X/K40 / Alioth  
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Active                                                             
+ | Maintainer                | [OFFENDER](https://telegram.me/lazyafk)                     
+ | Device Support Group      | [Device Telegram group](https://t.me/offendersupport)                           
+ | Download Link             | [Official Download Link for your device]( https://downloads.project-xtended.org/?dir=alioth/XT )
+
 <a href="#"><img align="left" img src="assets/mi/chime.png" width="90" /></a>
 
  | Device/Codename           | Redmi 9T, POCO M3 / Chime    
