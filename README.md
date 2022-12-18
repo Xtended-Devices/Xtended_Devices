@@ -165,10 +165,10 @@
 
  | Device/Codename           | Phone1 / Spacewar    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Testing                                                            
+ | Current Status            | Xtended-XT-v3.5                                                          
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
- | Download Link             | [Coming Soon](https://downloads.project-xtended.org/?dir=Spacewar/XT)
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=Spacewar/XT)
 
 </details>
 
