@@ -237,7 +237,7 @@
 
  | Device/Codename           | Realme 5 Pro / RMX1971    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Active                                                            
+ | Current Status            | Xtended-XT-v3.5                                                            
  | Maintainer                | [Samba Siva Rao K](https://telegram.me/kssrao13882)                     
  | Device Support Group      | [Device Telegram group](https://telegram.me/Xtended_RMX1971)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=RMX1971/XT)
