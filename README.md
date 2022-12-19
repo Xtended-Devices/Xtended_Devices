@@ -116,6 +116,15 @@
  | Device Support Group      | [Device Telegram group](https://t.me/tulipofficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=tulip/XT)
 
+<a href="#"><img align="left" img src="assets/mi/lavender.png" width="90" /></a>
+
+ | Device/Codename           | Redmi Note 7/7S / Lavender 
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Xtended-XT-v3.5                                                           
+ | Maintainer                | [Apex_Not_Legend](https://telegram.me/Apex_Not_Legend)                     
+ | Device Support Group      | [Device Telegram group](https://t.me/noob_gang69)                           
+ | Download Link             | [Official Download Link for your device]( https://downloads.project-xtended.org/?dir=lavender/XT )
+
 <a href="#"><img align="left" img src="assets/mi/violet.png" width="90" /></a>
 
  | Device/Codename           | Redmi Note 7 Pro / Violet   
