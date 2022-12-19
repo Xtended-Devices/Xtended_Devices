@@ -75,7 +75,7 @@
 
  | Device/Codename           | MI 10i/10tLite,RN 9pro5g / Gauguin  
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Active                                                            
+ | Current Status            | Xtended-XT-v3.5                                                            
  | Maintainer                | [cursed0007](https://telegram.me/cursed0007)                     
  | Device Support Group      | [Device Telegram group](https://t.me/xtendedgauguin)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=gauguin/XT)
