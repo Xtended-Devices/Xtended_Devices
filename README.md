@@ -174,7 +174,7 @@
 
  | Device/Codename           | Phone1 / Spacewar    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v3.5                                                          
+ | Current Status            | Xtended-XT-v4.5                                                          
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=Spacewar/XT)
@@ -192,7 +192,7 @@
 
  | Device/Codename           | OnePlus 7t / Hotdogb    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v3.5                                                            
+ | Current Status            | Xtended-XT-v4.0                                                            
  | Maintainer                | [SuperDroidBond](https://telegram.me/SuperDroidBond)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=hotdogb/XT)
@@ -201,7 +201,7 @@
 
  | Device/Codename           | OnePlus 7t Pro / Hotdog    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v3.5                                                            
+ | Current Status            | Xtended-XT-v4.0                                                            
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=hotdog/XT)
@@ -210,7 +210,7 @@
 
  | Device/Codename           | OnePlus 9 / Lemonade    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v3.5                                                            
+ | Current Status            | Xtended-XT-v4.0                                                            
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=lemonade/XT)
@@ -219,7 +219,7 @@
 
  | Device/Codename           | OnePlus 9Pro / Lemonadep    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v3.5                                                            
+ | Current Status            | Xtended-XT-v4.0                                                            
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=lemonadep/XT)
@@ -233,15 +233,6 @@
 <details>
 <br>
 <summary><b> Official Realme Devices</b></summary>
-<a href="#"><img align="left" img src="assets/realme/RMX1921.png" width="90" /></a>
-
- | Device/Codename           | Realme XT / RMX1921    
- | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Active                                                            
- | Maintainer                | [jigen_was_here](https://telegram.me/kssrao13882)                     
- | Device Support Group      | [Device Telegram group](https://t.me/RealmeXTofficial)                           
- | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=RMX1921/XT)
-
 <a href="#"><img align="left" img src="assets/realme/RMX1971.png" width="90" /></a>
 
  | Device/Codename           | Realme 5 Pro / RMX1971    
