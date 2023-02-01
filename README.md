@@ -8,6 +8,8 @@
 <details>
 <br>
 <summary><b> Official Lenovo Devices</b></summary>
+
+#
 <a href="#"><img align="left" img src="assets/lenovo/zippo.png" width="90" /></a>
 
  | Device/Codename           | Lenovo Z6 Pro / Zippo    
@@ -16,6 +18,7 @@
  | Maintainer                | [kanstmablason](https://telegram.me/kanstmablason)                     
  | Device Support Group      | [Device Telegram group](https://t.me/LenovoZ6ProChat)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=zippo/XT)
+#
 
 <a href="#"><img align="left" img src="assets/lenovo/zuk-z2.png" width="90" /></a>
 
@@ -35,6 +38,8 @@
 <details>
 <br>
 <summary><b> Official Xiaomi/Redmi Devices</b></summary>
+
+#
 <a href="#"><img align="left" img src="assets/mi/daisy.png" width="90" /></a>
 
  | Device/Codename           | Mi A2 Lite / Daisy   
@@ -43,6 +48,7 @@
  | Maintainer                | [TogoFire](https://telegram.me/TogoFire)                     
  | Device Support Group      | [Device Telegram group](https://t.me/TogoFireWork)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=daisy/XT)
+#
 
 <a href="#"><img align="left" img src="assets/mi/cepheus.png" width="90" /></a>
 
@@ -52,6 +58,7 @@
  | Maintainer                | [RDS_07](https://telegram.me/RDS_o7)                     
  | Device Support Group      | [Device Telegram group](https://t.me/rds_builds_support)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=cepheus/XT)
+#
 
 <a href="#"><img align="left" img src="assets/mi/grus.png" width="90" /></a>
 
@@ -61,6 +68,7 @@
  | Maintainer                | [RDS_07](https://telegram.me/RDS_o7)                     
  | Device Support Group      | [Device Telegram group](https://t.me/Swaggers_builds)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=grus/XT)
+#
 
 <a href="#"><img align="left" img src="assets/mi/raphael.png" width="90" /></a>
 
@@ -70,6 +78,7 @@
  | Maintainer                | [pawelik001](https://telegram.me/pawelik001)                     
  | Device Support Group      | [Device Telegram group](https://t.me/pawelikhideout)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=raphael/XT)
+#
 
 <a href="#"><img align="left" img src="assets/mi/gauguin.png" width="90" /></a>
 
@@ -79,6 +88,7 @@
  | Maintainer                | [cursed0007](https://telegram.me/cursed0007)                     
  | Device Support Group      | [Device Telegram group](https://t.me/xtendedgauguin)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=gauguin/XT)
+#
 
 <a href="#"><img align="left" img src="assets/mi/monet.png" width="90" /></a>
 
@@ -88,6 +98,17 @@
  | Maintainer                | [Alec Chan](https://telegram.me/alecchangod)                     
  | Device Support Group      | [Device Telegram group](https://t.me/alec_rom_support)                           
  | Download Link   	     | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=monet/XT)
+#
+
+<a href="#"><img align="left" img src="assets/mi/vili.png" width="90" /></a>
+
+ | Device/Codename           | Mi 11T Pro / vili   
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Xtended-XT-v4.0                                                            
+ | Maintainer                | [Shubham Yadav](https://t.me/ChampionsGod)                     
+ | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                          
+ | Download Link   	         | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=vili/XT)
+#
 
 <a href="#"><img align="left" img src="assets/mi/alioth.png" width="90" /></a>
 
@@ -97,6 +118,7 @@
  | Maintainer                | [OFFENDER](https://telegram.me/lazyafk)                     
  | Device Support Group      | [Device Telegram group](https://t.me/offendersupport)                           
  | Download Link             | [Official Download Link for your device]( https://downloads.project-xtended.org/?dir=alioth/XT )
+#
 
 <a href="#"><img align="left" img src="assets/mi/chime.png" width="90" /></a>
 
@@ -106,6 +128,17 @@
  | Maintainer                | [pawelik001](https://telegram.me/pawelik001)                     
  | Device Support Group      | [Device Telegram group](https://t.me/pawelikhideout)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=rchime/XT)
+#
+
+<a href="#"><img align="left" img src="assets/mi/whyred.png" width="90" /></a>
+
+ | Device/Codename           | Redmi Note 5 Pro / whyred   
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Active                                                            
+ | Maintainer                | [Arijit](https://t.me/Whyred_404)                     
+ | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                            
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=whyred/XT)
+#
 
 <a href="#"><img align="left" img src="assets/mi/tulip.png" width="90" /></a>
 
@@ -115,6 +148,7 @@
  | Maintainer                | [official_mocha](https://t.me/official_mocha)                     
  | Device Support Group      | [Device Telegram group](https://t.me/tulipofficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=tulip/XT)
+#
 
 <a href="#"><img align="left" img src="assets/mi/lavender.png" width="90" /></a>
 
@@ -124,6 +158,7 @@
  | Maintainer                | [Apex_Not_Legend](https://telegram.me/Apex_Not_Legend)                     
  | Device Support Group      | [Device Telegram group](https://t.me/noob_gang69)                           
  | Download Link             | [Official Download Link for your device]( https://downloads.project-xtended.org/?dir=lavender/XT )
+#
 
 <a href="#"><img align="left" img src="assets/mi/violet.png" width="90" /></a>
 
@@ -133,6 +168,7 @@
  | Maintainer                | [Abhi](https://t.me/abhix202)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                            
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=violet/XT)
+#
 
 <a href="#"><img align="left" img src="assets/mi/sweet.png" width="90" /></a>
 
@@ -142,6 +178,7 @@
  | Maintainer                | [Suresh](https://t.me/Black_Serpent)                     
  | Device Support Group      | [Device Telegram group](https://t.me/blackserpentsupport)                            
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=sweet/XT)
+#
 
 <a href="#"><img align="left" img src="assets/mi/miatoll.png" width="90" /></a>
 
@@ -151,6 +188,7 @@
  | Maintainer                | [Cosmic](https://t.me/cos0i)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                            
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=miatoll/XT)
+#
 
 <a href="#"><img align="left" img src="assets/mi/ginkgo.png" width="90" /></a>
 
@@ -170,6 +208,8 @@
 <details>
 <br>
 <summary><b> Official Nothing Devices</b></summary>
+
+#
 <a href="#"><img align="left" img src="assets/nothing/Spacewar.png" width="90" /></a>
 
  | Device/Codename           | Phone1 / Spacewar    
@@ -188,6 +228,8 @@
 <details>
 <br>
 <summary><b> Official OnePlus Devices</b></summary>
+
+#
 <a href="#"><img align="left" img src="assets/oneplus/hotdogb.png" width="90" /></a>
 
  | Device/Codename           | OnePlus 7t / Hotdogb    
@@ -196,6 +238,7 @@
  | Maintainer                | [SuperDroidBond](https://telegram.me/SuperDroidBond)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=hotdogb/XT)
+#
 
 <a href="#"><img align="left" img src="assets/oneplus/hotdog.png" width="90" /></a>
 
@@ -206,6 +249,8 @@
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=hotdog/XT)
 
+#
+
 <a href="#"><img align="left" img src="assets/oneplus/lemonade.png" width="90" /></a>
 
  | Device/Codename           | OnePlus 9 / Lemonade    
@@ -214,6 +259,7 @@
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=lemonade/XT)
+#
 
 <a href="#"><img align="left" img src="assets/oneplus/lemonadep.png" width="90" /></a>
 
@@ -233,6 +279,8 @@
 <details>
 <br>
 <summary><b> Official Realme Devices</b></summary>
+
+#
 <a href="#"><img align="left" img src="assets/realme/RMX1971.png" width="90" /></a>
 
  | Device/Codename           | Realme 5 Pro / RMX1971    
@@ -241,6 +289,7 @@
  | Maintainer                | [Samba Siva Rao K](https://telegram.me/kssrao13882)                     
  | Device Support Group      | [Device Telegram group](https://telegram.me/Xtended_RMX1971)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=RMX1971/XT)
+#
 
 <a href="#"><img align="left" img src="assets/realme/bitra.png" width="90" /></a>
 
