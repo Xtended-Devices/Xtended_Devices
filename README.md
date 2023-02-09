@@ -295,7 +295,7 @@
 
  | Device/Codename           | Realme GT Neo 2 / Bitra    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v3.5                                                           
+ | Current Status            | Xtended-XT-v4.0                                                       
  | Maintainer                | [Andreock](https://t.me/Andreock)                     
  | Device Support Group      | [Device Telegram group](https://t.me/realmegtneo2dragon)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=bitra/XT)
