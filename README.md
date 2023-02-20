@@ -94,7 +94,7 @@
 
  | Device/Codename           | Mi 10 Lite 5G / monet   
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v3.5                                                            
+ | Current Status            | Xtended-XT-v5.0                                                            
  | Maintainer                | [Alec Chan](https://telegram.me/alecchangod)                     
  | Device Support Group      | [Device Telegram group](https://t.me/alec_rom_support)                           
  | Download Link   	     | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=monet/XT)
