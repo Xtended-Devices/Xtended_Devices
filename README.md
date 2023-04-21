@@ -194,7 +194,7 @@
 
  | Device/Codename           | Redmi Note 8/8T / Ginkgo/Willow 
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v5.0                                                             
+ | Current Status            | Xtended-XT-v6.0                                                             
  | Maintainer                | [Tejas](https://t.me/I_Am_Charsi)                       
  | Device Support Group      | [Device Telegram group](https://t.me/builds_discussion)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=ginkgo/XT)
