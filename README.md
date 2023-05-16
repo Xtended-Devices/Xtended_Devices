@@ -170,6 +170,19 @@
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=violet/XT)
 #
 
+<a href="#"><img align="left" img src="assets/mi/ginkgo.png" width="90" /></a>
+
+ | Device/Codename           | Redmi Note 8/8T / Ginkgo/Willow 
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Xtended-XT-v7.0                                                             
+ | Maintainer                | [Tejas](https://t.me/I_Am_Charsi)                       
+ | Device Support Group      | [Device Telegram group](https://t.me/builds_discussion)                           
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=ginkgo/XT)
+
+</details>
+
+#
+
 <a href="#"><img align="left" img src="assets/mi/sweet.png" width="90" /></a>
 
  | Device/Codename           | Redmi Note 10 Pro / Sweet   
@@ -190,18 +203,6 @@
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=miatoll/XT)
 #
 
-<a href="#"><img align="left" img src="assets/mi/ginkgo.png" width="90" /></a>
-
- | Device/Codename           | Redmi Note 8/8T / Ginkgo/Willow 
- | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v6.0                                                             
- | Maintainer                | [Tejas](https://t.me/I_Am_Charsi)                       
- | Device Support Group      | [Device Telegram group](https://t.me/builds_discussion)                           
- | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=ginkgo/XT)
-
-</details>
-
-#
 <br>
 
 <a href="#"><img src="assets/nothing/nothing.png" height="35" /></a> 
