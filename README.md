@@ -120,6 +120,16 @@
  | Download Link             | [Official Download Link for your device]( https://downloads.project-xtended.org/?dir=alioth/XT )
 #
 
+ <a href="#"><img align="left" img src="assets/mi/beryllium.png" width="90" /></a>
+
+ | Device/Codename           | POCO F1 / Beryllium  
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Xtended-XT-v7.0                                                             
+ | Maintainer                | [AKSHAT](https://t.me/leopubglover)                       
+ | Device Support Group      | [Official Telegram group](https://t.me/ak_builds_discussion)
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=beryllium/XT)
+#
+
 <a href="#"><img align="left" img src="assets/mi/chime.png" width="90" /></a>
 
  | Device/Codename           | Redmi 9T, POCO M3 / Chime    
