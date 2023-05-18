@@ -252,6 +252,28 @@
 
 #
 
+<a href="#"><img align="left" img src="assets/oneplus/instantnoodle.png" width="90" /></a>
+
+ | Device/Codename           | OnePlus 8 / Instantnoodle   
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Xtended-XT-v7.0                                                             
+ | Maintainer                | [ZIZZYBOI](https://t.me/twinchin96)                       
+ | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=instantnoodle/XT)
+
+#
+
+<a href="#"><img align="left" img src="assets/oneplus/instantnoodlep.png" width="90" /></a>
+
+ | Device/Codename           | OnePlus 8 Pro / Instantnoodlep  
+ | :-------------------------| :----------------------------------------------------------------------
+ | Current Status            | Xtended-XT-v7.0                                                             
+ | Maintainer                | [ZIZZYBOI](https://t.me/twinchin96)                       
+ | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=instantnoodlep/XT)
+
+#
+
 <a href="#"><img align="left" img src="assets/oneplus/lemonade.png" width="90" /></a>
 
  | Device/Codename           | OnePlus 9 / Lemonade    
