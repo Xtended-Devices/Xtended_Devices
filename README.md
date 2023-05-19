@@ -189,8 +189,6 @@
  | Device Support Group      | [Device Telegram group](https://t.me/builds_discussion)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=ginkgo/XT)
 
-</details>
-
 #
 
 <a href="#"><img align="left" img src="assets/mi/sweet.png" width="90" /></a>
@@ -211,8 +209,10 @@
  | Maintainer                | [Cosmic](https://t.me/cos0i)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                            
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=miatoll/XT)
-#
 
+</details>
+
+#
 <br>
 
 <a href="#"><img src="assets/nothing/nothing.png" height="35" /></a> 
