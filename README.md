@@ -144,7 +144,7 @@
 
  | Device/Codename           | Redmi Note 5 Pro / whyred   
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Active                                                            
+ | Current Status            | Xtended-XT-v7.0                                                          
  | Maintainer                | [Arijit](https://t.me/Whyred_404)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                            
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=whyred/XT)
@@ -164,7 +164,7 @@
 
  | Device/Codename           | Redmi Note 7/7S / Lavender 
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v3.5                                                           
+ | Current Status            | Xtended-XT-v7.0                                                           
  | Maintainer                | [Apex_Not_Legend](https://telegram.me/Apex_Not_Legend)                     
  | Device Support Group      | [Device Telegram group](https://t.me/noob_gang69)                           
  | Download Link             | [Official Download Link for your device]( https://downloads.project-xtended.org/?dir=lavender/XT )
@@ -174,7 +174,7 @@
 
  | Device/Codename           | Redmi Note 7 Pro / Violet   
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v3.5                                                            
+ | Current Status            | Xtended-XT-v7.0                                                            
  | Maintainer                | [Abhi](https://t.me/abhix202)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                            
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=violet/XT)
@@ -205,7 +205,7 @@
 
  | Device/Codename           | Poco M2 Pro / Miatoll   
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Active                                                            
+ | Current Status            | Xtended-XT-v7.0                                                           
  | Maintainer                | [Cosmic](https://t.me/cos0i)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                            
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=miatoll/XT)
@@ -225,7 +225,7 @@
 
  | Device/Codename           | Phone1 / Spacewar    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v4.5                                                          
+ | Current Status            | Xtended-XT-v7.0                                                          
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=Spacewar/XT)
@@ -245,7 +245,7 @@
 
  | Device/Codename           | OnePlus 7t / Hotdogb    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v4.0                                                            
+ | Current Status            | Xtended-XT-v7.0                                                            
  | Maintainer                | [SuperDroidBond](https://telegram.me/SuperDroidBond)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=hotdogb/XT)
@@ -255,7 +255,7 @@
 
  | Device/Codename           | OnePlus 7t Pro / Hotdog    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v4.0                                                            
+ | Current Status            | Xtended-XT-v7.0                                                            
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=hotdog/XT)
@@ -288,7 +288,7 @@
 
  | Device/Codename           | OnePlus 9 / Lemonade    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v4.0                                                            
+ | Current Status            | Xtended-XT-v7.0                                                            
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=lemonade/XT)
@@ -298,7 +298,7 @@
 
  | Device/Codename           | OnePlus 9Pro / Lemonadep    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v4.0                                                            
+ | Current Status            | Xtended-XT-v7.0                                                            
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=lemonadep/XT)
@@ -318,7 +318,7 @@
 
  | Device/Codename           | Realme 5 Pro / RMX1971    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v3.5                                                            
+ | Current Status            | Xtended-XT-v7.0                                                            
  | Maintainer                | [Samba Siva Rao K](https://telegram.me/kssrao13882)                     
  | Device Support Group      | [Device Telegram group](https://telegram.me/Xtended_RMX1971)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=RMX1971/XT)
