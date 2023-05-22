@@ -14,7 +14,7 @@
 
  | Device/Codename           | Lenovo Z6 Pro / Zippo    
  | :---------------          | :------------------------------------------------------------------
- | Current Status            | Active                                                            
+ | Current Status            | Xtended-XT-v7.0                                                           
  | Maintainer                | [kanstmablason](https://telegram.me/kanstmablason)                     
  | Device Support Group      | [Device Telegram group](https://t.me/LenovoZ6ProChat)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=zippo/XT)
@@ -24,7 +24,7 @@
 
  | Device/Codename           | Lenovo Zuk Z2 Plus / z2_plus    
  | :---------------          | :------------------------------------------------------------------
- | Current Status            | Active                                                            
+ | Current Status            | Xtended-XT-v7.0                                                          
  | Maintainer                | [Pranav Temkar](https://telegram.me/PptOo7)                     
  | Device Support Group      | [Device Telegram group](https://t.me/LenovoZukZ2)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=z2_plus/XT)
@@ -74,7 +74,7 @@
 
  | Device/Codename           | Mi 9T Pro / Raphael    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Active                                                            
+ | Current Status            | Xtended-XT-v7.0                                                            
  | Maintainer                | [pawelik001](https://telegram.me/pawelik001)                     
  | Device Support Group      | [Device Telegram group](https://t.me/pawelikhideout)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=raphael/XT)
@@ -84,7 +84,7 @@
 
  | Device/Codename           | MI 10i/10tLite,RN 9pro5g / Gauguin  
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v3.5                                                            
+ | Current Status            | Xtended-XT-v7.0                                                           
  | Maintainer                | [cursed0007](https://telegram.me/cursed0007)                     
  | Device Support Group      | [Device Telegram group](https://t.me/xtendedgauguin)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=gauguin/XT)
@@ -328,7 +328,7 @@
 
  | Device/Codename           | Realme GT Neo 2 / Bitra    
  | :-------------------------| :----------------------------------------------------------------------
- | Current Status            | Xtended-XT-v4.0                                                       
+ | Current Status            | Xtended-XT-v7.0                                                      
  | Maintainer                | [Andreock](https://t.me/Andreock)                     
  | Device Support Group      | [Device Telegram group](https://t.me/realmegtneo2dragon)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=bitra/XT)
