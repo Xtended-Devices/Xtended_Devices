@@ -58,16 +58,6 @@
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=cepheus/XT)
 #
 
-### Mi 9 SE / Grus
-<a href="#"><img align="left" img src="assets/mi/grus.png" width="75" /></a>
-
- | Current Status            | Active                                                            
- | :-------------------------| :----------------------------------------------------------------------
- | Maintainer                | [RDS_07](https://telegram.me/RDS_o7)                     
- | Device Support Group      | [Device Telegram group](https://t.me/Swaggers_builds)                           
- | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=grus/XT)
-#
-
 ### Mi 9T Pro / Raphael
 <a href="#"><img align="left" img src="assets/mi/raphael.png" width="75" /></a>
 
@@ -148,16 +138,6 @@
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=whyred/XT)
 #
 
-### Redmi Note 6 Pro / Tulip
-<a href="#"><img align="left" img src="assets/mi/tulip.png" width="75" /></a>
-
- | Current Status            | Active                                                            
- | :-------------------------| :----------------------------------------------------------------------
- | Maintainer                | [official_mocha](https://t.me/official_mocha)                     
- | Device Support Group      | [Device Telegram group](https://t.me/tulipofficial)                           
- | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=tulip/XT)
-#
-
 ### Redmi Note 7/7S / Lavender
 <a href="#"><img align="left" img src="assets/mi/lavender.png" width="75" /></a>
 
@@ -192,9 +172,9 @@
 ### Redmi Note 10 Pro / Sweet
 <a href="#"><img align="left" img src="assets/mi/sweet.png" width="75" /></a>
 
- | Current Status            | Active                                                            
+ | Current Status            | Xtended-XT-v7.0                                                         
  | :-------------------------| :----------------------------------------------------------------------
- | Maintainer                | [Suresh](https://t.me/Black_Serpent)                     
+ | Maintainer                | [Suresh](https://t.me/Black_Serpent) & [Mr Fox](https://t.me/mrfox2003)                      
  | Device Support Group      | [Device Telegram group](https://t.me/blackserpentsupport)                            
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=sweet/XT)
 #
