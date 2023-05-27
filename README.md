@@ -4,6 +4,35 @@
 [<img src="assets/misc/telegram-logo.webp" height="30" /></a>](https://t.me/XtendedOfficial "Connect to us on Telegram") [<img src="assets/misc/github-logo.png" height="30" /></a>](https://github.com/orgs/Project-Xtended/repositories "Our ROM sources") [<img src="assets/misc/twitter-logo.svg" height="30" /></a>](https://twitter.com/projectxtended "Let's talk something")
 #
 
+<a href="#"><img src="assets/google/google.png" height="50" /></a> 
+<details>
+<br>
+<summary><b> Official Google Devices</b></summary>
+
+### Pixel 7 Pro / cheetah
+<a href="#"><img align="left" img src="assets/google/cheetah.png" width="75" /></a>
+
+ | Current Status            | Xtended-XT-v7.0                                                           
+ | :---------------          | :------------------------------------------------------------------
+ | Maintainer                | [Anthony Pyrtle](https://t.me/Pyrtle93)                     
+ | Device Support Group      | [Device Telegram group](https://t.me/P7P7pro)                           
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=cheetah/XT)
+
+#
+### Pixel 7 / panther
+<a href="#"><img align="left" img src="assets/google/panther.png" width="75" /></a>
+
+ | Current Status            | Xtended-XT-v7.0                                                          
+ | :---------------          | :------------------------------------------------------------------
+ | Maintainer                | [Anthony Pyrtle](https://t.me/Pyrtle93)                    
+ | Device Support Group      | [Device Telegram group](https://t.me/P7P7pro)                           
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=panther/XT)
+
+</details>
+
+#
+<br>
+
 <a href="#"><img src="assets/lenovo/lenovo.png" height="50" /></a> 
 <details>
 <br>
