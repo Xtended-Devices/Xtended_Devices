@@ -289,6 +289,17 @@
 
 #
 
+### OnePlus 8t/9r/lemonades
+<a href="#"><img align="left" img src="assets/oneplus/kebab.png" width="75" /></a>
+
+ | Current Status            | Xtended-XT-v6.0                                                             
+ | :-------------------------| :----------------------------------------------------------------------
+ | Maintainer                | [RDS_07](https://t.me/RDS_07)                       
+ | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=lemonades/XT)
+
+#
+
 ### OnePlus 9 / Lemonade
 <a href="#"><img align="left" img src="assets/oneplus/lemonade.png" width="75" /></a>
 
