@@ -110,7 +110,7 @@
 ### Mi 10 Lite 5G / monet
 <a href="#"><img align="left" img src="assets/mi/monet.png" width="75" /></a>
 
- | Current Status            | Xtended-XT-v5.0                                                            
+ | Current Status            | Xtended-XT-v7.0                                                            
  | :-------------------------| :----------------------------------------------------------------------
  | Maintainer                | [Alec Chan](https://telegram.me/alecchangod)                     
  | Device Support Group      | [Device Telegram group](https://t.me/alec_rom_support)                           
