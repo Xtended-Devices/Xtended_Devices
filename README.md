@@ -147,6 +147,16 @@
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=beryllium/XT)
 #
 
+### Redmi K30, Poco X2 / Phoenix
+<a href="#"><img align="left" img src="assets/mi/phoenix.png" width="75" /></a>
+
+ | Current Status            | Active                                                            
+ | :-------------------------| :----------------------------------------------------------------------
+ | Maintainer                | [Jay Mistry](https://t.me/jaymistry258)                     
+ | Device Support Group      | [Device Telegram group](https://t.me/Poco_X2_Builds)                           
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=rphoenix/XT)
+#
+
 ### Redmi 9T, POCO M3 / Chime
 <a href="#"><img align="left" img src="assets/mi/chime.png" width="75" /></a>
 
@@ -319,6 +329,16 @@
  | Maintainer                | [mukesh22584](https://telegram.me/mukesh22584)                     
  | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=lemonadep/XT)
+#
+
+### OnePlus 9RT / Martini
+<a href="#"><img align="left" img src="assets/oneplus/martini.png" width="75" /></a>
+
+ | Current Status            | Xtended-XT-v7.0                                                            
+ | :-------------------------| :----------------------------------------------------------------------
+ | Maintainer                | [Mrick](https://t.me/Mrick343)                     
+ | Device Support Group      | [Official Telegram group](https://t.me/XtendedOfficial)                           
+ | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=martini/XT)
 
 </details>
 
