@@ -197,13 +197,13 @@
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=violet/XT)
 #
 
-### Redmi Note 8/8T / Ginkgo/Willow
+### Redmi Note 8 / Ginkgo
 <a href="#"><img align="left" img src="assets/mi/ginkgo.png" width="75" /></a>
 
- | Current Status            | Xtended-XT-v7.0                                                             
+ | Current Status            | Active                                                             
  | :-------------------------| :----------------------------------------------------------------------
- | Maintainer                | [Tejas](https://t.me/I_Am_Charsi)                       
- | Device Support Group      | [Device Telegram group](https://t.me/builds_discussion)                           
+ | Maintainer                | [RahulPalXDA](https://t.me/WeeboDemon)                       
+ | Device Support Group      | [Device Telegram group](https://t.me/WeeboSupport)                           
  | Download Link             | [Official Download Link for your device](https://downloads.project-xtended.org/?dir=ginkgo/XT)
 
 #
